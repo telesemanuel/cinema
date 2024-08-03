@@ -3,7 +3,7 @@ import os
 from datetime import date
 import time
 
-# Entrada de daos
+# Entrada de dados
 nome = input("Informe um nome: ")
 idade = int(input("Informe sua idade: "))
 data = f"{date.today().day}/{date.today().month}/{date.today().year}"
